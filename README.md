@@ -22,16 +22,25 @@ pkg install wget
 <pre>
 pkg install proot
 </pre>
+
 <br>
-سپس اسکریپت را با دستور زیر اجرا کنید:
+سپس با دستور زیر به اسکریپت دسترسی روت میدهیم:
 </br>
 <pre>
-bash install.sh
+chmod +x install.sh
 </pre>
+
+
+<br>
+سپس دستور زیر را وارد کنید و مراحل نصب را طی کنید:
+<pre>
+bash inatall.sh
+</pre>
+
 <br>
 در نهایت بعد از نصب و ساخته شدن فایل اجرایی محیط روت را با دستور زیر اجرا کنید:
 <pre>
-bash start.sh
+bash startubuntu.sh
 </pre>
 </h5>
 <br>
