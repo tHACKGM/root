@@ -40,7 +40,7 @@ bash inatall.sh
 <br>
 در نهایت بعد از نصب و ساخته شدن فایل اجرایی محیط روت را با دستور زیر اجرا کنید:
 <pre>
-bash startubuntu.sh
+bash start.sh
 </pre>
 </h5>
 <br>
